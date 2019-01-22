@@ -1,4 +1,10 @@
-# How to use jekyll
+# How to upload slides
+- Clone this repo directory (you should have push access!)
+- Run `python add_lecture.py` and follow the prompt
+- Git add, commit, push
+
+
+# How to use jekyll to display site locally
 
 ```bash
 brew install ruby
