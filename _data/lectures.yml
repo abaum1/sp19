@@ -9,7 +9,6 @@
     - [Textbook: Data Design](https://www.textbook.ds100.org/ch/02/design_intro.html)
 
     '
-  slides: assets/lectures/lec0/fig3.pdf
   topic: Course Overview, Motivating/Defining Data Science, Logistics, Study Design
 - date: 1/24/19
   resources: '- [Textbook: Tabular Data](https://www.textbook.ds100.org/ch/03/pandas_intro.html)
