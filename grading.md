@@ -3,36 +3,36 @@ layout: page
 title: "Grading"
 ---
 
-## The following infomation is outdated. Stay tuned. 
+There will tentatively be 3 challenging projects and 8 homework assignments. Assignments must be completed individually and will mix programming and short answer questions. Lab assignments will be graded on completion and correctness, but all test cases will be public. Your two lowest labs and homeworks will be dropped.
 
-There will be 2 challenging projects and 7 homework assignments. Assignments must be completed individually and will mix programming and short answer questions. Lab assignments will be graded on completion and correctness, but all test cases will be public. Your two lowest labs will be dropped.
-
-- 27% homeworks and labs (18% homework, 9% labs)
-- 3% Vitamins
+- 20% Homeworks
+- 10% Labs
+- 5% Vitamins
 - 15% Projects
-- 5% Attendance (or 0% if opting out)
-- 20% Midterm
-- 30% Final (or 35% if opting out of attendance)
+- 20% Midterms (10% each)
+- 30% Final
 
-(The midterm will tentatively be in class on October 16th. The final exam will be December 13th 11:30am - 2:30pm)
+Midterm 1 will be in class on February 28th. Midterm 2 will be in class on
+April 11th. The final exam will be May 16th from 11:30am - 2:30pm. If you miss a midterm for a pre-approved reason, such as a class conflict or illness, then you won’t make it up, but instead your other midterm and the final exam will be
+used to compute your overall exam score (out of 50%).
 
-### Slip Days
-- 5 days of slip time you can use on homeworks or projects.
-- One minute late = one slip day.
-- After you use slip days, 20% off per day.
-- Intended to cover unforeseen circumstances.
+### Graduate Version
 
+Students enrolled in the undergraduate version of the course may opt for
+the graduate grading scheme, which involves a final project instead of
+labs and vitamins.
+
+- 20% Homeworks
+- 15% Projects
+- 15% Final Project
+- 20% Midterms (10% each)
+- 30% Final
 
 ### On Time Policy (try not to be late)
 
-Each student gets an extension budget of 5 slip days. You can use the extension
-on homework and project assignments during the semester. Do not plan to use
-your slip-time; it is there for unforeseen circumstances! These are rounded up, so if you are
-1 minute late then 1 slip day will be used.
-
-After you have used up your slip-time budget, any assignment handed in late
-will be marked off 20% per day late, rounded up to the nearest integer number
-of days. No assignment will be accepted more than 5 days late.
+No late homeworks, labs, or vitamins will be accepted unless an extension is
+granted by a staff member. Late projects will be marked off 20% per day late, rounded up to the nearest integer number of days. No project will be accepted
+more than 5 days late.
 
 ### Collaboration Policy (don't cheat)
 
