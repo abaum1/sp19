@@ -41,13 +41,13 @@
 
     <!-- Topic Column -->
     <td class="lecture__info">
-      <h3>
+      <p>
         {{ lecture.topic }}
         {% if lecture.slides %}
           [<a href="{{ lecture.slides }}">slides</a>]
         {% endif %}
         <!-- {% if lecture.lecturer %} [{{ lecture.lecturer }}] {% endif %} -->
-      </h3>
+      </p>
 
       <!-- the second class field for description is used to un-hidden the field -->
       <p class="lecture__description description-week-{{week}}" hidden="true">

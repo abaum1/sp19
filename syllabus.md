@@ -56,7 +56,7 @@ This syllabus is still under development and is subject to change.
   }
 
 </script>
-<a class="show_hide_description_click" href="javascript:void(0)" onclick="showAllDescription();">Show all lecture descriptions</a>
+<!-- <a class="show_hide_description_click" href="javascript:void(0)" onclick="showAllDescription();">Show all lecture descriptions</a> -->
 
 
 <div class="table-responsive">
@@ -64,7 +64,7 @@ This syllabus is still under development and is subject to change.
     <colgroup>
       <col width="65px">
       <col width="78px">
-      <col width="115px">
+      <col width="100px">
       <col width="">
     </colgroup>
     <thead>

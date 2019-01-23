@@ -78,7 +78,7 @@ body {
     /* ...and then put the sidebar on the left on larger screens */
     flex-direction: row;
 
-    font-size: 1.2rem;
+    font-size: 1rem;
     line-height: 1.6;
   }
 }
@@ -156,9 +156,9 @@ ul {
     height: 0;
     overflow: hidden;
 }
- 
-.responsive-calendar-wrapper iframe,   
-.responsive-calendar-wrapper object,  
+
+.responsive-calendar-wrapper iframe,
+.responsive-calendar-wrapper object,
 .responsive-calendar-wrapper embed {
     position: absolute;
     top: 0;
@@ -298,9 +298,10 @@ ul {
 
   .syllabus__header {
     border-bottom: 5px solid $data-blue;
+    font-size: 1rem;
   }
 
-  .lecture:nth-child(even) {
+  .lecture:nth-child(odd) {
     border-top: 5px solid $data-blue;
     background-color: #eee;
   }
@@ -333,4 +334,8 @@ ul {
 .lecture__week--current {
   background-color: $data-blue;
   color: #fff;
+}
+
+.lecture__info {
+  font-weight: bold;
 }
