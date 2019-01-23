@@ -56,7 +56,7 @@ if answers['path_or_url'] == 'url':
     config[idx]['slides'] = url_answer['url']
 else:
     path_answer = prompt([{'type':'input', 'name': 'path', 'message': 'Enter the file path to add'}])
-    path = os.path.expand_user(path_answer['path'])
+    path = os.path.expanduser(path_answer['path'])
 
     if not os.path.exists(path):
         print("File doesn't exist, please make sure you entered the correct path")
