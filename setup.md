@@ -5,9 +5,9 @@ description: "Instructions to set up your data science environment."
 ---
 ## Note
 We will still be using datahub as our primary computing environment. This page
-serves as a guide for alternative environment setup. 
+serves as a guide for alternative environment setup.
 
-TL;DR: you don't have to do this. 
+TL;DR: you don't have to do this.
 
 
 ## Contents
@@ -28,7 +28,7 @@ TL;DR: you don't have to do this.
 
 1. You will need access to the command line. On a Mac, you can open the
    [Terminal](https://www.macworld.co.uk/how-to/mac-software/how-use-terminal-on-mac-3608274/)
-   by opening Spotlight (Cmd + Space) and typing `"Terminal"`.  Alternatively, you can go to 
+   by opening Spotlight (Cmd + Space) and typing `"Terminal"`.  Alternatively, you can go to
    your `Applications` screen and select `Terminal` (it might be in the folder named
    `"Other"`)
 
@@ -66,7 +66,7 @@ scratch.
 
 ### Installing Anaconda:
 
-1. Visit [the Anaconda website](https://www.anaconda.com/download/#download) and download the installer 
+1. Visit [the Anaconda website](https://www.anaconda.com/download/#download) and download the installer
    for **Python 3.7**. Download the 64-bit installer if your computer is 64-bit (most likely), the 32-bit
    installer if not. See [this FAQ](https://support.microsoft.com/en-us/help/13443/windows-which-operating-system)
    if you are unsure.
@@ -127,42 +127,42 @@ You may remove the `install_anaconda.sh` script now if you'd like.
 
 These instructions are the same for OSX, Windows, and Linux.
 
-1. Download the data100 `data100_environment.yml`] from the course repository 
-   [here](https://raw.githubusercontent.com/DS-100/fa18/gh-pages/assets/local_setup/data100_environment.yml) or:
+1. Download the data100 `data100_environment.yml`] from the course repository
+   [here](https://raw.githubusercontent.com/DS-100/sp19/gh-pages/assets/local_setup/data100_environment.yml) or:
 
         # download via curl
-        curl https://raw.githubusercontent.com/DS-100/fa18/gh-pages/assets/local_setup/data100_environment.yml > data100_environment.yml
+        curl https://raw.githubusercontent.com/DS-100/sp19/gh-pages/assets/local_setup/data100_environment.yml > data100_environment.yml
 
         # OR download via wget
-        wget -O data100_environment.yml https://raw.githubusercontent.com/DS-100/fa18/gh-pages/assets/local_setup/data100_environment.yml
+        wget -O data100_environment.yml https://raw.githubusercontent.com/DS-100/sp19/gh-pages/assets/local_setup/data100_environment.yml
 
-This [YAML](https://en.wikipedia.org/wiki/YAML) file is what we use to specify the dependencies and packages (and their versions) we wish to install into the [conda environment](http://conda.pydata.org/docs/using/envs.html) we will make for this class.  The purpose of the environment is to ensure that everyone in the course is using the same package versions for every assignment whether or not they are working on datahub.  This is to prevent inconsistent behavior due to 
+This [YAML](https://en.wikipedia.org/wiki/YAML) file is what we use to specify the dependencies and packages (and their versions) we wish to install into the [conda environment](http://conda.pydata.org/docs/using/envs.html) we will make for this class.  The purpose of the environment is to ensure that everyone in the course is using the same package versions for every assignment whether or not they are working on datahub.  This is to prevent inconsistent behavior due to
 differences in package versions.
 
 1. Using the **Terminal**, navigate to the directory where you downloaded `data100_environment.yml`. Run these commands to create a new conda environment. Each conda environment maintains its own package versions, allowing us to switch between package versions easily. For example, this class uses Python 3, but you might have another that uses Python 2. With a conda environment, you can switch between those at will.
 
         # sanity check on conda installation.  Should be 4.5 or higher
         conda --version
-		
+
 		# update conda just in case it's out of date
 		# enter y if prompted to proceed
 		conda update conda
-        
+
 		# download git
 		conda install -c anaconda git
-		
+
         # Create a python 3.6 conda environment with the full set
         # of packages specified in environment.yml (jupyter, numpy, pandas, ...)
         conda env create -f data100_environment.yml
 
         # Switch to the data100 environment
         conda activate data100
-		
+
 		# Check if packages are in the environment
 		# This should not be empty!
 		conda list
 
-From now on, you can switch to the `data100` env with `conda activate data100`, and switch back to the default env with `conda deactivate`. 
+From now on, you can switch to the `data100` env with `conda activate data100`, and switch back to the default env with `conda deactivate`.
 
 ## Working on assignments locally
 
@@ -198,17 +198,17 @@ You can tell if you are correct environment if your terminal looks something lik
 ![conda-env](assets/local_setup/data100_environment.PNG)
 
 Additionally,
-    
+
     conda env list
-    
+
 outputs a list of all your conda environments, and `data100` should appear with a `*` next to it (the active one).
 
 ## Removing the environment to start over
-  
+
 If you feel as if you've messed up and need to start over, you can remove the environment with
 
 	conda remove --name data100 --all
-	
+
 To verify that the environment was removed, in your Terminal window or an Anaconda Prompt, run:
 
 	conda info --envs

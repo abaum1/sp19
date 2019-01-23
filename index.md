@@ -31,9 +31,7 @@ This class is listed as [STAT C100](https://classes.berkeley.edu/content/2019-sp
 
 ## Lab, Section, and Office Hours Schedules
 
-<iframe src="https://calendar.google.com/calendar/embed?mode=WEEK&src=berkeley.edu_fl37flf960ctlo0o2qi1mfb5og%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-* Office Hours Schedule TBD
+<iframe src="https://calendar.google.com/calendar/embed?mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=berkeley.edu_fl37flf960ctlo0o2qi1mfb5og%40group.calendar.google.com&amp;color=%23BE6D00&amp;src=berkeley.edu_4vab25kh7rj87vlf7i1hpte0s0%40group.calendar.google.com&amp;color=%232952A3&amp;src=berkeley.edu_ksjhcba5khogc2sfhrs3etq74c%40group.calendar.google.com&amp;color=%230D7813&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 For official holidays see the [academic calendar](https://registrar.berkeley.edu/sites/default/files/pdf/UCB_AcademicCalendar_2018-19_V2.pdf).
 
