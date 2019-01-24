@@ -4,8 +4,10 @@
   email: allenshen5@berkeley.edu
   image: assets/images/staff_pics/allen_shen.jpg
   lab_info:
-  - 'Lab: 9 - 10 (Evans 458)'
-  - 'Lab: 10 - 11 (Evans 458)'
+  - 'Lab: 2 - 3 (Evans B6)'
+  - 'Lab: 3 - 4 (Evans B6)'
+  oh_info:
+  - 'OH: Th 2 - 4 (411 Soda)'
   name: Allen Shen
 - discussion_info:
   - 'Disc: 1 - 2 (Etch 3105)'
@@ -15,6 +17,8 @@
   lab_info:
   - 'Lab: 11 - 12 (Evans 458)'
   - 'Lab: 12 - 1 (Evans 458)'
+  oh_info:
+  - 'OH: M 10 - 12 (411 Soda)'
   name: Aman Dhar
 - discussion_info:
   - 'Disc: 12 - 1 (Dwinelle 242)'
@@ -22,6 +26,8 @@
   image: assets/images/staff_pics/ananth_agarwal.jpeg
   lab_info:
   - 'Lab: 4 - 5 (Evans 458)'
+  oh_info:
+  - 'OH: M 3 - 4 (411 Soda)'
   name: Ananth Agarwal
 - discussion_info:
   - 'Disc: 4 - 5 (Dwinelle 243)'
@@ -29,13 +35,17 @@
   image: assets/images/staff_pics/ashleyhchien.png
   lab_info:
   - 'Lab: 9 - 10 (Evans B6)'
+  oh_info:
+  - 'OH: W 10 - 11 (411 Soda)'
   name: Ashley Chien
 - discussion_info:
-  - 'TBD'
+  - 'Disc: 10 - 11 (Wheeler 200)'
   email: crankshaw@eecs.berkeley.edu
   image: assets/images/staff_pics/dan_crankshaw.jpeg
   lab_info:
-  - 'TBD'
+  - 'Lab: 9 - 10 (Evans 458)'
+  oh_info:
+  - 'OH: F 11 - 12 (611 Soda)'
   name: Dan Crankshaw
 - discussion_info:
   - 'Disc: 12 - 1 (Latimer 105)'
@@ -43,6 +53,8 @@
   image: assets/images/staff_pics/daniel_zhu.jpg
   lab_info:
   - 'Lab: 10 - 11 (Cory 105)'
+  oh_info:
+  - 'OH: M 2 - 3 (411 Soda)'
   name: Daniel Zhu
 - discussion_info:
   - 'Disc: 2 - 3 (Dwinelle 243)'
@@ -50,6 +62,8 @@
   image: assets/images/staff_pics/hatim_ezbakhe.jpg
   lab_info:
   - 'Lab: 3 - 4 (Evans 458)'
+  oh_info:
+  - 'OH: W 2 - 3 (411 Soda)'
   name: Hatim Ezbakhe
 - discussion_info:
   - 'Disc: 2 - 3 (Wheeler 200)'
@@ -57,6 +71,8 @@
   image: assets/images/staff_pics/janaki_vivrekar.jpeg
   lab_info:
   - 'Lab: 4 - 5 (Evans B6)'
+  oh_info:
+  - 'OH: M 12 - 1 (411 Soda)'
   name: Janaki Vivrekar
 - discussion_info:
   - 'Disc: 5 - 6 (Evans 9)'
@@ -64,13 +80,18 @@
   image: assets/images/staff_pics/jinkyu_kim.jpg
   lab_info:
   - 'Lab: 3 - 4 (Cory 105)'
+  oh_info:
+  - 'OH: M 9 - 10 (411 Soda)'
+  - 'OH: W 11 - 12 (411 Soda)'
   name: Jinkyu Kim
 - discussion_info:
   - 'Disc: 11 - 12 (Etch 3109)'
   email: junseopark@berkeley.edu
   image: assets/images/staff_pics/junseo_park.png
   lab_info:
-  - 'Lab: 2 - 3 (Evans B6)'
+  - 'Lab: 2 - 3 (Sutardja Dai 254)'
+  oh_info:
+  - 'OH: M 11 - 12 (411 Soda)'
   name: Junseo Park
 - discussion_info:
   - 'Disc: 11 - 12 (Cory 289)'
@@ -78,6 +99,8 @@
   image: assets/images/staff_pics/manana_hakyoban.jpg
   lab_info:
   - 'Lab: 10 - 11 (Evans B6)'
+  oh_info:
+  - 'OH: M 10 - 11 (411 Soda)'
   name: Manana Hakobyan
 - discussion_info:
   - 'Disc: 10 - 11 (GPB 103)'
@@ -85,6 +108,8 @@
   image: assets/images/staff_pics/max_murphy.jpg
   lab_info:
   - 'Lab: 2 - 3 (Cory 105)'
+  oh_info:
+  - 'OH: M 5 - 6 (651 Soda)'
   name: Maxwell Murphy
 - discussion_info:
   - 'Disc: 10 - 11 (Etch 3113)'
@@ -92,6 +117,8 @@
   image: assets/images/staff_pics/neil_shah.JPG
   lab_info:
   - 'Lab: 10 - 11 (SDH 254)'
+  oh_info:
+  - 'OH: W 12 - 1 (411 Soda)'
   name: Neil Shah
 - discussion_info:
   - 'Disc: 1 - 2 (Evans 9)'
@@ -101,6 +128,9 @@
   lab_info:
   - 'Lab: 11 - 12 (Cory 105)'
   - 'Lab: 12 - 1 (Cory 105)'
+  oh_info:
+  - 'OH: M 3 - 4 (411 Soda)'
+  - 'OH: M 4 - 5 (651 Soda)'
   name: Philippe Boileau
 - discussion_info:
   - 'Disc: 3 - 4 (Dwinelle 242)'
@@ -108,13 +138,17 @@
   image: assets/images/staff_pics/samirnaqvi.jpg
   lab_info:
   - 'Lab: 11 - 12 (Evans B6)'
+  oh_info:
+  - 'OH: M 1 - 2 (411 Soda)'
   name: Samir Naqvi
 - discussion_info:
   - 'Disc: 11 - 12 (Etch 3113)'
   email: schaganty@berkeley.edu
   image: assets/images/staff_pics/sasank_chaganty.jpg
   lab_info:
-  - 'Lab: 3 - 4 (Evans B6)'
+  - 'Lab: 10 - 11 (Evans 458)'
+  oh_info:
+  - 'OH: M 4 - 5 (651 Soda)'
   name: Sasank Chaganty
 - discussion_info:
   - 'Disc: 10 - 11 (Etch 3111)'
@@ -124,6 +158,8 @@
   lab_info:
   - 'Lab: 1 - 2 (Evans 458)'
   - 'Lab: 2 - 3 (Evans 458)'
+  oh_info:
+  - 'OH: F 8 - 10 (341A Soda)'
   name: Shrishti (Sona) Jeswani
 - discussion_info:
   - 'Disc: 3 - 4 (Latimer 105)'
@@ -133,6 +169,8 @@
   lab_info:
   - 'Lab: 12 - 1 (SDH 254)'
   - 'Lab: 1 - 2 (SDH 254)'
+  oh_info:
+  - 'OH: M 1 - 3 (411 Soda)'
   name: Simon Mo
 - discussion_info:
   - 'Disc: 2 - 3 (Wheeler 220)'
@@ -140,6 +178,8 @@
   image: assets/images/staff_pics/sumukh_shivakumar.jpg
   lab_info:
   - 'Lab: 1 - 2 (Cory 105)'
+  oh_info:
+  - 'OH: F 10 - 11 (611 Soda)'
   name: Sumukh Shivakumar
 - discussion_info:
   - 'Disc: 12 - 1 (Etch 3119)'
@@ -149,6 +189,8 @@
   lab_info:
   - 'Lab: 12 - 1 (Evans B6)'
   - 'Lab: 1 - 2 (Evans B6)'
+  oh_info:
+  - 'OH: Th 12 - 2 (411 Soda)'
   name: Suraj Rampure
 - discussion_info:
   - 'Disc: 12 - 1 (Dwinelle 130)'
@@ -156,4 +198,6 @@
   image: assets/images/staff_pics/tony_hsu.jpeg
   lab_info:
   - 'Lab: 11 - 12 (SDH 254)'
+  oh_info:
+  - 'OH: W 1 - 2 (411 Soda)'
   name: Tony Hsu
