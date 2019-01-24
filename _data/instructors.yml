@@ -1,6 +1,12 @@
 - email: sandrine@stat.berkeley.edu
   image: https://www.stat.berkeley.edu/users/sandrine/SDPics/DSC02170.JPG
+  oh_info:
+  - 'OH: M 1 - 2 (327 Evans)'
+  - 'OH: Th 2 - 3 (327 Evans)'
   name: Sandrine Dudoit
 - email: denero@berkeley.edu
   image: https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/denero.jpg
+  oh_info:
+  - 'OH: M 9 - 10 (781 Soda)'
+  - 'OH: W 10 - 11 (781 Soda)'
   name: John DeNero
