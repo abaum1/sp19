@@ -14,15 +14,16 @@
   slides: assets/lectures/lec0/lec01.pdf
   topic: Course Overview, Motivating/Defining Data Science, Logistics
 - date: 1/24/19
-  resources: '- [Textbook: Tabular Data](https://www.textbook.ds100.org/ch/03/pandas_intro.html)
-
-    '
   topic: Study Design
+  slides: assets/lectures/lec0/lec02.pdf
 - date: 1/29/19
   discussion: Disc2
   homework: HW2
   lab: Lab2
   topic: Data Tables with Pandas
+  resources: '- [Textbook: Tabular Data](https://www.textbook.ds100.org/ch/03/pandas_intro.html)
+
+    '
 - date: 1/31/19
   resources: '- [Textbook: Data Cleaning](https://www.textbook.ds100.org/ch/04/cleaning_intro.html)
 
