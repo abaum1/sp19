@@ -8,7 +8,7 @@ try:
     import yaml
     from dateutil.parser import parse
 except ImportError:
-    print("Please install requirements by `pip install PyInquirer pyyaml dateutil`")
+    print("Please install requirements by `pip install PyInquirer pyyaml python-dateutil`")
     sys.exit(1)
 
 CONFIG_PATH = "./_data/lectures.yml"
