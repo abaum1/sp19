@@ -22,7 +22,7 @@
   slides: assets/lectures/lec0/lec02.pdf
 - date: 1/29/19
   discussion: Disc2
-  homework: HW2
+  homework: Proj1 (due 2/11)
   lab: Lab2
   topic: Data Tables with Pandas
   resources: '- [Textbook: Tabular Data](https://www.textbook.ds100.org/ch/03/pandas_intro.html)
@@ -35,7 +35,6 @@
   topic: Data Cleaning
 - date: 2/5/19
   discussion: Disc3
-  homework: HW3
   lab: Lab3
   resources: '- [Textbook: EDA](https://www.textbook.ds100.org/ch/05/eda_intro.html)
 
@@ -48,7 +47,7 @@
   topic: Visualization and EDA II
 - date: 2/12/19
   discussion: Disc4
-  homework: HW4
+  homework: Proj1 Due, HW2
   lab: Lab4
   resources: '- [Textbook: Working With Text](https://www.textbook.ds100.org/ch/08/text_intro.html)
 
@@ -61,20 +60,21 @@
   topic: SQL
 - date: 2/19/19
   discussion: Disc5
-  homework: Proj1
+  homework: HW3
   lab: Lab5
   topic: Clustering
 - date: 2/21/19
   topic: Dimensionality Reduction
 - date: 2/26/19
   discussion: Disc6
+  homework: HW4
   lab: Lab6
   topic: Case Study, Review
 - date: 2/28/19
   topic: Midterm 1
 - date: 3/5/19
   discussion: Disc7
-  homework: Proj1 Due, HW5
+  homework: HW4 Due, HW5
   lab: Lab7
   resources: '- [Textbook: Modeling and Estimation](https://www.textbook.ds100.org/ch/10/modeling_intro.html)
 
