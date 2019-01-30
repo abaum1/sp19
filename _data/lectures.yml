@@ -29,7 +29,12 @@
   topic: Data Tables with Pandas
   resources: '- [Textbook: Tabular Data](https://www.textbook.ds100.org/ch/03/pandas_intro.html)
 
+- [Demos](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=lectures/lec03)
+
+- [Demos on Github](https://github.com/DS-100/sp19/tree/master/lectures/lec03)
+
     '
+  slides: https://docs.google.com/presentation/d/1j-rNsz8WbmHMj1TLp-Ap4MAipo_zbu_KX1J9waP-fAg/edit?usp=sharing
 - date: 1/31/19
   resources: '- [Textbook: Data Cleaning](https://www.textbook.ds100.org/ch/04/cleaning_intro.html)
 
