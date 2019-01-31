@@ -22,7 +22,9 @@
   slides: assets/lectures/lec0/lec02.pdf
 - date: 1/29/19
   discussion: Disc2
-  homework: Proj1 (due 2/11)
+  homework: '[Proj1](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=proj/proj1/proj1.ipynb) (due 2/12 @ 6pm)
+
+  '
   lab: '[Lab2](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=labs/lab02/lab02.ipynb) (due 1/30)
 
     '
@@ -81,7 +83,7 @@
   topic: Midterm 1
 - date: 3/5/19
   discussion: Disc7
-  homework: HW4 Due, HW5
+  homework: HW5
   lab: Lab7
   resources: '- [Textbook: Modeling and Estimation](https://www.textbook.ds100.org/ch/10/modeling_intro.html)
 
