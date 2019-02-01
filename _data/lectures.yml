@@ -15,11 +15,11 @@
     - [Textbook: Data Design](https://www.textbook.ds100.org/ch/02/design_intro.html)
 
     '
-  slides: assets/lectures/lec0/lec01.pdf
+  slides: assets/lectures/lec01.pdf
   topic: Course Overview, Motivating/Defining Data Science, Logistics
 - date: 1/24/19
   topic: Study Design
-  slides: assets/lectures/lec0/lec02.pdf
+  slides: assets/lectures/lec02.pdf
 - date: 1/29/19
   discussion: Disc2
   homework: '[Proj1](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=proj/proj1/proj1.ipynb) (due 2/12 @ 6pm)
@@ -40,8 +40,13 @@
 - date: 1/31/19
   resources: '- [Textbook: Data Cleaning](https://www.textbook.ds100.org/ch/04/cleaning_intro.html)
 
+- [Demos on Datahub](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sp19&subPath=lectures/lec04)
+
+- [Demos on Github](https://github.com/DS-100/sp19/tree/master/lectures/lec04)
+
     '
   topic: Data Cleaning
+  slides: https://docs.google.com/presentation/d/1mQKWp8tHC8rVDUOO69P0wQf4jsj-CvMk4AA73VK0QM0/edit?usp=sharing
 - date: 2/5/19
   discussion: Disc3
   lab: Lab3
@@ -83,7 +88,7 @@
   topic: Midterm 1
 - date: 3/5/19
   discussion: Disc7
-  homework: HW5
+  homework: HW4 Due, HW5
   lab: Lab7
   resources: '- [Textbook: Modeling and Estimation](https://www.textbook.ds100.org/ch/10/modeling_intro.html)
 
