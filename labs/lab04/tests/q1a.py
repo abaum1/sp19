@@ -1,21 +1,21 @@
 test = {
-  'name': 'q5b',
-  'points': 3,
+  'name': 'q1a',
+  'points': 1,
   'suites': [
     {
       'cases': [
         {
           'code': r"""
-          >>> sorted(list(fraction_missing_df.columns))
-          ['count non null', 'count null', 'fraction null']
+          >>> 'categorical' in q1a
+          True
           """,
           'hidden': False,
           'locked': False
         },
         {
           'code': r"""
-          >>> fraction_missing_df.index.name
-          'postal_code_5'
+          >>> 'quantitative' in q1a
+          True
           """,
           'hidden': False,
           'locked': False
